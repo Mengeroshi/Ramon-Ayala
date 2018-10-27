@@ -1,4 +1,5 @@
-﻿# Todos los Comandos de Git!
+﻿# Todos los Comandos de Git! 100% real no fake
+ 
 
  - ¿Donde estamos?
  - ls
