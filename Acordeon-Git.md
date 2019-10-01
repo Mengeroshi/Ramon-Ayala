@@ -2,6 +2,7 @@
  
 
  - ¿Donde estamos?
+ no lose y tu? :v 
  - ls
  - cd +ubicacion = ir a un lugar
  - git  init = iniciar un repositorio
